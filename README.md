@@ -1,6 +1,8 @@
 nogit
 =====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NodeOS/nogit.svg)](https://greenkeeper.io/)
+
 Local git replacement as a last resort. Created to get rid of local git dependency in [npm](https://github.com/npm/npm) and [bower](https://github.com/bower/bower), so contains only tiny subset of git features for those tools.
 
 ## Usage
